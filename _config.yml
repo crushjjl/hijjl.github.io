@@ -14,9 +14,9 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: 张玺-392最有钱的人
+name: NodZhang
+description: NodZhang is a big old and very NB!
 
 github: https://github.com/showzeng/Minimalism
 rss: true
